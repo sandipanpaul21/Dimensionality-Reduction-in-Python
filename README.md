@@ -18,8 +18,8 @@
   4. T-sne
 #### 06 LDA (Theory)
 * Definition, Steps, Example and Limitations
-#### 07
-
+#### 07 LDA (Python Code)
+* Steps by steps to solve LDA
 #### 08 PCA (Theory)
 * Definition, Steps, Example and Limitations
 #### 09 PCA Example (Theory)
