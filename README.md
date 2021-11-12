@@ -34,7 +34,9 @@
 
 #### 14 Factor Analysis (Theory)
 * Definition, Steps and Example
-#### 15
+
+#### 15 Factor Analysis (Python Code)
+* Steps by steps to solve Factor Analysis
 
 #### 16 Dimensionality Reduction Assumptions (Theory)
 * Assumption of Each Dimensionality Reduction Algorithim
