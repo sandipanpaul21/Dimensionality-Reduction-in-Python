@@ -1,45 +1,47 @@
 ### Dimensionality-Reduction-in-Python
+- Problem of Multicollinearity, lead to Overfitting
+- Dimesionality reduction reduces dimension and not loose any information
 #### 01 Curse of Dimensionality (Theory)
-* High Dimensional Data, Example and Possible Methods to solve
+- Risk of Overfitting
 #### 02 Correlation (Theory)
-* Definition and Type
-  1. Spearman Correlation
-  2. Pearson Correlation
+- Strength and Relationship between two variables
+  1. Spearman Correlation (Assume linear relation between variable)
+  2. Pearson Correlation (Not assumne any kind of relationship)
 #### 03 Collinearity & Multi Collinearity (Theory)
 * Definition, Why it is a problem ?
-* Technique to check collinearity
+* Technique to check collinearity : VIF
 #### 04 Variation Inflation Factor (VIF) (Theory)
-* Definition and Example
+* Deteces Multicollinearity in the dataset
 #### 05 Dimensionality Reduction Overview (Theory)
-* Definition, Type of Dimensionality Reduction Technique
+- Problem of Multicollinearity, lead to Overfitting
+- Dimesionality reduction reduces dimension and not loose any information
+- Definition, Type of Dimensionality Reduction Technique
   1. PCA
   2. Factor Analysis
   3. LDA
   4. T-sne
 #### 06 LDA (Theory)
-* Definition, Steps, Example and Limitations
+- Linear Discriminant Analysis
+- Used for Supervised Classification problem
 #### 07 LDA (Python Code)
-* Steps by steps to solve LDA
+- Steps by steps to solve LDA
 #### 08 PCA (Theory)
-* Definition, Steps, Example and Limitations
+- Principal Component Analysis
+- Used for Unsupervised Learning problem
 #### 09 PCA Example (Theory)
-* Example of PCA in depth
+- Example of PCA in depth
 #### 10 PCA Practical Tips (Theory)
-* Different Practical Tips to solve before PCA
+- Different Practical Tips to solve before PCA
+  1. Variable are on Same Scale
+  2. How many principal component should be expect 
 #### 11 Eigen Value and Eigen Vector (Theory)
 * Definition and Example
-#### 12 T-SNE (Theory)
-* Definition, Steps and Example
-#### 13
-
+#### 12 PCA (Python Code)
+* Steps by steps to solve PCA
+#### 13 Dimensionality Reduction Assumptions (Theory)
+* Assumption of Each Dimensionality Reduction Algorithim
 #### 14 Factor Analysis (Theory)
 * Definition, Steps and Example
-
 #### 15 Factor Analysis (Python Code)
 * Steps by steps to solve Factor Analysis
-
-#### 16 Dimensionality Reduction Assumptions (Theory)
-* Assumption of Each Dimensionality Reduction Algorithim
-
-#### 17 PCA (Python Code)
-* Steps by steps to solve PCA
+#### 16 Interview Question Dimensionality Reduction
